@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="CTJ.Domain/Entities/Pagamento.cs">
     <Files>
       <File FileName="CTJ.Domain/Services/ServiceBase.cs" Line="21" Column="4" />
-      <File FileName="CTJ.Domain/Entities/Pagamento.cs" Line="1" Column="1" />
+      <File FileName="CTJ.Domain/Entities/Pagamento.cs" Line="6" Column="2" />
       <File FileName="CTJ.Domain/Interfaces/Repositories/IPagamentoRepository.cs" Line="6" Column="58" />
       <File FileName="CTJ.Domain/Interfaces/Services/IPagamentoService.cs" Line="1" Column="1" />
       <File FileName="CTJ.Domain/Services/PagamentoService.cs" Line="8" Column="62" />
