@@ -14,5 +14,7 @@ namespace CTJ.Domain.Services
 		{
 			_pagamentoRepository = pagamentoRepository;
 		}
+
+
 	}
 }
