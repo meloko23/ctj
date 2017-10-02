@@ -1,0 +1,11 @@
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/bin/Debug/netstandard2.0/CTJ.Application.deps.json
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/bin/Debug/netstandard2.0/CTJ.Application.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/bin/Debug/netstandard2.0/CTJ.Application.pdb
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/bin/Debug/netstandard2.0/CTJ.Domain.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/bin/Debug/netstandard2.0/CTJ.Domain.pdb
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/obj/Debug/netstandard2.0/CTJ.Application.csprojResolveAssemblyReference.cache
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/obj/Debug/netstandard2.0/CTJ.Application.csproj.CoreCompileInputs.cache
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/obj/Debug/netstandard2.0/CTJ.Application.AssemblyInfoInputs.cache
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/obj/Debug/netstandard2.0/CTJ.Application.AssemblyInfo.cs
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/obj/Debug/netstandard2.0/CTJ.Application.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Application/obj/Debug/netstandard2.0/CTJ.Application.pdb

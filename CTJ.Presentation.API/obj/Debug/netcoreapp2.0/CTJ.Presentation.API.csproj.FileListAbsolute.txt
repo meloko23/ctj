@@ -1,0 +1,16 @@
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Presentation.API.deps.json
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Presentation.API.runtimeconfig.json
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Presentation.API.runtimeconfig.dev.json
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Presentation.API.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Presentation.API.pdb
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Application.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Domain.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Domain.pdb
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/bin/Debug/netcoreapp2.0/CTJ.Application.pdb
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/obj/Debug/netcoreapp2.0/CTJ.Presentation.API.csprojResolveAssemblyReference.cache
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/obj/Debug/netcoreapp2.0/CTJ.Presentation.API.csproj.CoreCompileInputs.cache
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/obj/Debug/netcoreapp2.0/CTJ.Presentation.API.AssemblyInfoInputs.cache
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/obj/Debug/netcoreapp2.0/CTJ.Presentation.API.AssemblyInfo.cs
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/obj/Debug/netcoreapp2.0/CTJ.Presentation.API.dll
+/Users/Fernando/Documents/Projetos/dotnet/CTJ/CTJ.Presentation.API/obj/Debug/netcoreapp2.0/CTJ.Presentation.API.pdb
